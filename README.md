@@ -5,7 +5,7 @@ HR would like to know what the attrition rate i.e % of people who have left.And 
 # Aim of Project
 To help a company understand the attrition in their organization to minimize the attrition rate,so that turnover costs are reduced and employess can be retained for a longer period. To explore the dataset and it's different features understand the relationship between the different variables Find the variables that tend to have a larger number of employess with attrition.
 # Analysis Conclusion :
-# ### Top Reasons why Employees leave the Organization:
+# Top Reasons why Employees leave the Organization:
 1. No Overtime This was a surpirse, employees who don't have overtime are most likely to leave the 
     organization. This could be that employees would like to have a higher amount of income or employees could 
      feel that they are underused.
